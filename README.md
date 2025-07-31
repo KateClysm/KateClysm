@@ -20,6 +20,7 @@
 🎯 My goal is to become a **Data Analyst** in the IT industry and bring **real value** through data-driven insights.
 
 📃 Portfolio: [mariamonchot.github.io](https://kateclysm.github.io/mariamonchot/)
+
 ✉️ Email: MariaMonchot@gmail.com
 
 &nbsp;
