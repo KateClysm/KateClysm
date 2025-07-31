@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+I'm+Maria+Monchot+(Katerina)!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=20C997&center=true&vCenter=true&width=600&lines=Hi+I'm+Maria+Monchot+(Katerina)!" alt="Typing SVG" />
 </p>
 
 <p align="center">
