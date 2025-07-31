@@ -1,11 +1,13 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+I'm+Maria+Monchot+(Katerina)!" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=KateClysm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KateClysm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github.com/KateClysm/KateClysm/blob/main/banner.gif" alt="Maria Monchot banner" width="100%" />
 </p>
+
+&nbsp;
 
 ---
 
@@ -23,19 +25,21 @@
 👾 GitHub: [KateClysm](https://github.com/KateClysm)  
 ✉️ Email: MariaMonchot@gmail.com
 
+&nbsp;
+
 ---
 
 ## 🚀 Frequently Used Technologies
 
 ### 🎯 Currently Focusing On
-<p>
+<p style="zoom:0.85;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
 ### 🔧 Most Used
-<p>
+<p style="zoom:0.85;">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -46,12 +50,14 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
+&nbsp;
+
 ---
 
 ## 🧰 My Full Tech Stack
 
 ### 🧑‍💻 Languages
-<p>
+<p style="zoom:0.85;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -60,7 +66,7 @@
 </p>
 
 ### 🎨 Frontend
-<p>
+<p style="zoom:0.85;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
@@ -68,7 +74,7 @@
 </p>
 
 ### ⚙️ Frameworks & Libraries
-<p>
+<p style="zoom:0.85;">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
@@ -78,14 +84,14 @@
 </p>
 
 ### 🗄️ Databases
-<p>
+<p style="zoom:0.85;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 </p>
 
 ### 🧰 Tools
-<p>
+<p style="zoom:0.85;">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -96,6 +102,8 @@
   <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white"/>
 </p>
 
+&nbsp;
+
 ---
 
 ## 💬 Top Soft Skills
@@ -103,7 +111,9 @@
 - 🧠 Problem Solving  
 - 🗂️ Organization  
 - 📚 Continuous Learning  
-- 🤝 Collaborative Environments
+- 🤝 Collaborative Environments  
+
+&nbsp;
 
 ---
 
@@ -112,6 +122,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KateClysm&layout=compact&theme=radical" height="170"/>
 </p>
+
+&nbsp;
 
 ---
 
