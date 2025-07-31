@@ -1,17 +1,11 @@
 <!-- BANNER -->
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F78DA7&center=true&vCenter=true&width=600&lines=Hi+I'm+Maria+Monchot+(Katerina)!" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=KateClysm&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
-<p align="center">
-  <img src="https://github.com/KateClysm/KateClysm/blob/main/banner.gif" alt="Maria Monchot banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&height=60&lines=Maria+Monchot+(Katerina)+💻;Data+Science+Student+%7C+Full-Stack+Background+%7C+Lifelong+Learner" alt="Typing SVG Banner" />
-</p>
-
-&nbsp;
 
 ---
 
@@ -25,8 +19,7 @@
 
 🎯 My goal is to become a **Data Analyst** in the IT industry and bring **real value** through data-driven insights.
 
-📃 Portfolio: [mariamonchot.github.io](https://kateclysm.github.io/mariamonchot/)  
-👾 GitHub: [KateClysm](https://github.com/KateClysm)  
+📃 Portfolio: [mariamonchot.github.io](https://kateclysm.github.io/mariamonchot/)
 ✉️ Email: MariaMonchot@gmail.com
 
 &nbsp;
